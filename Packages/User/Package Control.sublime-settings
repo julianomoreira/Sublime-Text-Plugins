@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ColorPicker",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitHub Flavored Markdown Preview",
+		"LiveStyle",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Sass"
+	]
+}

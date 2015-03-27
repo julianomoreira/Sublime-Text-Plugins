@@ -1,0 +1,2232 @@
+{
+	"folder_history":
+	[
+		"/Users/z0019rb/code/plp-stuff/PLP-Prototype",
+		"/Users/z0019rb/code/plp-stuff/plp-prototype",
+		"/Users/z0019rb/Desktop/PogressivePlpPoc",
+		"/Users/z0019rb/code/stuff-to-learn/codyhouse",
+		"/Users/z0019rb/code/stuff-to-learn/codyhouse/product-quick-view",
+		"/Users/z0019rb/code/stuff-to-learn/codyhouse/morphing-modal-window",
+		"/Users/z0019rb/code/stuff-to-learn/codyhouse/simple-confirmation-popup",
+		"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns",
+		"/Users/z0019rb/code/tgt-pattern-library/tgt-pattern-library",
+		"/Users/z0019rb/code/Notes",
+		"/Users/z0019rb/dev/workspace/tcom-frontend-assets",
+		"/Users/z0019rb/code/run",
+		"/Users/z0019rb/code/tgt-pattern-library/design-assets",
+		"/Users/z0019rb/Code/tgt-pattern-library/patternlab",
+		"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library",
+		"/Users/z0019rb/Code/tgt-pattern-library/PLP-PDP",
+		"/Users/z0019rb/Code/plp-stuff/plp-prototype",
+		"/Users/z0019rb/Code/tgt-pattern-library",
+		"/Users/z0019rb/Code/run",
+		"/Users/z0019rb/Code/microscope",
+		"/Users/z0019rb/Code/Notes",
+		"/Users/z0019rb/Code/tgt-pattern-library/mobilestyleguide",
+		"/Users/z0019rb/Code/writing",
+		"/Users/z0019rb/Code/patternlab-node",
+		"/Users/z0019rb/Code/tgt-pattern-library/pl-design-assets",
+		"/Users/z0019rb/Code/tgt-pattern-library/knowledge-base/pattern-library",
+		"/Users/z0019rb/Desktop/1201187",
+		"/Users/z0019rb/Code/tgt-pattern-library/design-assets",
+		"/Users/z0019rb/Code/tgt-pattern-library/coding-standards",
+		"/Users/z0019rb/Code/tgt-pattern-library/pattern-library",
+		"/Users/z0019rb/Code/smacss",
+		"/Users/z0019rb/Code/pattern-library",
+		"/Users/z0019rb/Code/ui_guidelines",
+		"/Users/z0019rb/Code/hologram-example",
+		"/Users/z0019rb/Code/core-framework",
+		"/Users/z0019rb/Code/test",
+		"/Users/z0019rb/Code/buttons",
+		"/Users/z0019rb/Code/assemble",
+		"/Users/z0019rb/Code/styleguide",
+		"/Users/z0019rb/Code/tcom-frontend-assets",
+		"/Users/z0019rb/Code/css-fixes",
+		"/Users/z0019rb/Code/assemble-blog-template",
+		"/Users/z0019rb/Code/assemble-blog",
+		"/Users/z0019rb/Code/UI-UX-FE-Framework",
+		"/Users/z0019rb/Code/playground",
+		"/Users/z0019rb/Code/playground2",
+		"/Users/z0019rb/Desktop/viewport-fix",
+		"/Users/z0019rb/Code/ui/styleGuide",
+		"/Users/z0019rb/Code/ui/style-guide",
+		"/Users/z0019rb/Code/stuff-to-learn",
+		"/Users/z0019rb/Code/marka"
+	],
+	"last_window_id": 93,
+	"settings":
+	{
+		"new_window_height": 1002.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"out",
+						"outline"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"backgroun",
+						"background-color"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"swat",
+						"swatches5"
+					],
+					[
+						"swatcher",
+						"swatchesContainer"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"show",
+						"showPic"
+					],
+					[
+						"color",
+						"colorSwatchesDiv"
+					],
+					[
+						"get",
+						"getAttribute"
+					],
+					[
+						"no",
+						"parentNode"
+					],
+					[
+						"on",
+						"onclick"
+					],
+					[
+						"background",
+						"background"
+					],
+					[
+						"trigger",
+						"trigger4"
+					],
+					[
+						"trig",
+						"trigger4"
+					],
+					[
+						"im",
+						"import"
+					],
+					[
+						"swatches",
+						"swatches-is-visible"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"swatc",
+						"swatches"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"grid",
+						"gridTiles--bottom"
+					],
+					[
+						"colorS",
+						"colorSwatches"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"backgr",
+						"background"
+					],
+					[
+						"getEle",
+						"getElementsByTagName"
+					],
+					[
+						"getE",
+						"getElementById"
+					],
+					[
+						"set",
+						"setAttribute"
+					],
+					[
+						"mouse",
+						"mouseenter"
+					],
+					[
+						"backgroud",
+						"background-color"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"backgron",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"githu",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"github",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/css/style.css",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/js/jquery-1.11.0.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/codeacademy.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/tile-atc.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/style.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/Gruntfile.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/tile.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/css3/_linear-gradient.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/css3/_transform.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/_bourbon.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/iframe.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/scss/style.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/.gitignore",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/package.json",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/tgt-patterns.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/core/_base.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/templates/_footer.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/css/tgt-patterns.min.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/templates/_header.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_states.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/vendor/bootstrap/_buttons.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_buttons.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_mobile.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_main.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_sidebar.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/typography/_heading.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_callouts_prompts.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/navigation/_pagination.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_footer.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/js/docs.js",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/base/_base.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/pages/index.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/docs.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/img/tgt-logo-white.png",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/img/tgt-logo.png",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_header.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/.gitignore",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-small-screens.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-big-screens.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-groups.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_sizes.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_forms.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_navigation.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/www/index.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/css/tgt-patterns.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/css/docs.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_typography.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/Gruntfile.js",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/forms/_sizes.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_skins.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/knowledge-base/pattern-library/coding-standards.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/knowledge-base/pattern-library/contributing-to-the-library.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/www/atoms.html",
+				"/Users/z0019rb/Code/ui_guidelines/index.html",
+				"/Users/z0019rb/Code/hologram-example/components/index.md",
+				"/Users/z0019rb/Code/test/css/style.css",
+				"/Users/z0019rb/Code/hologram-example/build/script/components.js",
+				"/Users/z0019rb/Code/hologram-example/components/toggle/toggle.css",
+				"/Users/z0019rb/Code/hologram-example/gruntfile.js",
+				"/Users/z0019rb/Code/hologram-example/config.yml",
+				"/Users/z0019rb/Code/hologram-example/LICENSE.txt",
+				"/Users/z0019rb/Code/hologram-example/templates/static/css/github.css",
+				"/Users/z0019rb/Code/hologram-example/components/background/backgrounds.css",
+				"/Users/z0019rb/Code/hologram-example/templates/_footer.html",
+				"/Users/z0019rb/Code/hologram-example/build/css/screen.css",
+				"/Users/z0019rb/Code/hologram-example/templates/_header.html",
+				"/Users/z0019rb/Code/hologram-example/.gitignore",
+				"/Users/z0019rb/Code/hologram-example/README.md",
+				"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css/product-listing.css",
+				"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css/product-listing-details.css",
+				"/Users/z0019rb/Code/tcom-frontend-assets/build/build-tff.xml",
+				"/Users/z0019rb/Code/hologram-example/docs/index.html",
+				"/Users/z0019rb/Code/hologram-example/templates/static/brick.png",
+				"/Users/z0019rb/Code/UI-UX-FE-Framework/scss/layout/_document.scss",
+				"/Users/z0019rb/Code/UI-UX-FE-Framework/scss/layout/_container.scss",
+				"/Users/z0019rb/Desktop/viewport-fix/PDP-VIZIO.webarchive"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css",
+					"TSDA"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sroll",
+					"width=\"22\" height=\"22\"",
+					"\"22\"",
+					"hei=12\"",
+					"userChoi",
+					"swatches3",
+					".gridTiles--bottom",
+					"angle",
+					"<li",
+					"<li>",
+					"12",
+					"angle",
+					"console",
+					"colorSwatches4",
+					"transi",
+					"red",
+					"<img alt=\"White\" title=\"White\"",
+					"Symphony Blue",
+					" \n",
+					"more colors",
+					"swatches",
+					"swatchesTrigger3",
+					"swatchesBox",
+					"color",
+					"\"12\"",
+					"12",
+					"btn-primar",
+					"table-responsi	",
+					"table-respo	",
+					"table-repos",
+					"table",
+					"commit",
+					"Accessibility",
+					"commit",
+					".nav",
+					"#nav",
+					"backgroundbasi",
+					"back",
+					"compare",
+					"li.large .tileInfo .productTitle",
+					".large",
+					"li.large",
+					"li.large .product",
+					"li.large .productTile",
+					"li.large",
+					"calloutMsg-eyebrow",
+					"free-gift",
+					"plpRun",
+					"free-gift",
+					"eyebr",
+					"search_combi",
+					"meta",
+					"viewport",
+					"meta",
+					"viewport",
+					"meta",
+					"displayinvento",
+					"displayinvent"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1946.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"out",
+						"outline"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"backgroun",
+						"background-color"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"swat",
+						"swatches5"
+					],
+					[
+						"swatcher",
+						"swatchesContainer"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"show",
+						"showPic"
+					],
+					[
+						"color",
+						"colorSwatchesDiv"
+					],
+					[
+						"get",
+						"getAttribute"
+					],
+					[
+						"no",
+						"parentNode"
+					],
+					[
+						"on",
+						"onclick"
+					],
+					[
+						"background",
+						"background"
+					],
+					[
+						"trigger",
+						"trigger4"
+					],
+					[
+						"trig",
+						"trigger4"
+					],
+					[
+						"im",
+						"import"
+					],
+					[
+						"swatches",
+						"swatches-is-visible"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"swatc",
+						"swatches"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"grid",
+						"gridTiles--bottom"
+					],
+					[
+						"colorS",
+						"colorSwatches"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"backgr",
+						"background"
+					],
+					[
+						"getEle",
+						"getElementsByTagName"
+					],
+					[
+						"getE",
+						"getElementById"
+					],
+					[
+						"set",
+						"setAttribute"
+					],
+					[
+						"mouse",
+						"mouseenter"
+					],
+					[
+						"backgroud",
+						"background-color"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"backgron",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/index.html",
+					"settings":
+					{
+						"buffer_size": 2693,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/livestyle.css",
+					"settings":
+					{
+						"buffer_size": 2852,
+						"line_ending": "Unix",
+						"name": "livestyle.css"
+					}
+				},
+				{
+					"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/tile.html",
+					"settings":
+					{
+						"buffer_size": 37664,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/scss/_tile.scss",
+					"settings":
+					{
+						"buffer_size": 14048,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/js/script.js",
+					"settings":
+					{
+						"buffer_size": 7489,
+						"line_ending": "Unix",
+						"name": "script.js"
+					}
+				},
+				{
+					"contents": "<div class=\"rating-online-cont\">                                                                   <div class=\"onlinestorecontainer\">\n  <p style=\"\n    font-weight: normal;\n    margin-bottom: 3px;\n\">Mossimo Supply Co.</p>\n  <div class=\"MSNP\">                   <p class=\"online-instore-icon online    SFS \">                     online only                                                  </p>              </div>         </div>               <div class=\"rating-outer\">                   <div class=\"ratings\">                      <a href=\"/p/strappy-challis-dress-mossimo-supply-co/-/A-16874495#prodSlot=large_1_7#?selectedTab=item-guestreviews-link\" id=\"review_16874495\" class=\"star-rating-small\">                              <span class=\"screen-reader-only\"> there are no reviews for Strappy Challis Dress Teal/Pink S - Mossimo Supply Co..</span>                          <div class=\"rating-percentage\" style=\"width:0%\"></div>         </a>                    </div>                </div>      </div>",
+					"settings":
+					{
+						"buffer_size": 1002,
+						"line_ending": "Unix",
+						"name": "<div class=\"rating-online-cont\">"
+					}
+				},
+				{
+					"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/js/codeacademy.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/Gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 2222,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"githu",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"github",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/.gitignore",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/css/style.css",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/js/jquery-1.11.0.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/codeacademy.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/tile-atc.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/style.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/Gruntfile.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/tile.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/css3/_linear-gradient.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/css3/_transform.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/_bourbon.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/iframe.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/scss/style.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/package.json",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/tgt-patterns.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/core/_base.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/templates/_footer.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/css/tgt-patterns.min.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/templates/_header.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_states.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/vendor/bootstrap/_buttons.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_buttons.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_mobile.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_main.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_sidebar.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/typography/_heading.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_callouts_prompts.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/navigation/_pagination.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_footer.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/js/docs.js",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/base/_base.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/pages/index.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/docs.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/img/tgt-logo-white.png",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/img/tgt-logo.png",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_header.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/.gitignore",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-small-screens.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-big-screens.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-groups.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_sizes.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_forms.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_navigation.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/www/index.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/css/tgt-patterns.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/css/docs.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_typography.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/Gruntfile.js",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/forms/_sizes.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_skins.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/knowledge-base/pattern-library/coding-standards.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/knowledge-base/pattern-library/contributing-to-the-library.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/www/atoms.html",
+				"/Users/z0019rb/Code/ui_guidelines/index.html",
+				"/Users/z0019rb/Code/hologram-example/components/index.md",
+				"/Users/z0019rb/Code/test/css/style.css",
+				"/Users/z0019rb/Code/hologram-example/build/script/components.js",
+				"/Users/z0019rb/Code/hologram-example/components/toggle/toggle.css",
+				"/Users/z0019rb/Code/hologram-example/gruntfile.js",
+				"/Users/z0019rb/Code/hologram-example/config.yml",
+				"/Users/z0019rb/Code/hologram-example/LICENSE.txt",
+				"/Users/z0019rb/Code/hologram-example/templates/static/css/github.css",
+				"/Users/z0019rb/Code/hologram-example/components/background/backgrounds.css",
+				"/Users/z0019rb/Code/hologram-example/templates/_footer.html",
+				"/Users/z0019rb/Code/hologram-example/build/css/screen.css",
+				"/Users/z0019rb/Code/hologram-example/templates/_header.html",
+				"/Users/z0019rb/Code/hologram-example/.gitignore",
+				"/Users/z0019rb/Code/hologram-example/README.md",
+				"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css/product-listing.css",
+				"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css/product-listing-details.css",
+				"/Users/z0019rb/Code/tcom-frontend-assets/build/build-tff.xml",
+				"/Users/z0019rb/Code/hologram-example/docs/index.html",
+				"/Users/z0019rb/Code/hologram-example/templates/static/brick.png",
+				"/Users/z0019rb/Code/UI-UX-FE-Framework/scss/layout/_document.scss",
+				"/Users/z0019rb/Code/UI-UX-FE-Framework/scss/layout/_container.scss",
+				"/Users/z0019rb/Desktop/viewport-fix/PDP-VIZIO.webarchive"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css",
+					"TSDA"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"width=\"22\" height=\"22\"",
+					"\"22\"",
+					"hei=12\"",
+					"userChoi",
+					"swatches3",
+					".gridTiles--bottom",
+					"angle",
+					"<li",
+					"<li>",
+					"12",
+					"angle",
+					"console",
+					"colorSwatches4",
+					"transi",
+					"red",
+					"<img alt=\"White\" title=\"White\"",
+					"Symphony Blue",
+					" \n",
+					"more colors",
+					"swatches",
+					"swatchesTrigger3",
+					"swatchesBox",
+					"color",
+					"\"12\"",
+					"12",
+					"btn-primar",
+					"table-responsi	",
+					"table-respo	",
+					"table-repos",
+					"table",
+					"commit",
+					"Accessibility",
+					"commit",
+					".nav",
+					"#nav",
+					"backgroundbasi",
+					"back",
+					"compare",
+					"li.large .tileInfo .productTitle",
+					".large",
+					"li.large",
+					"li.large .product",
+					"li.large .productTile",
+					"li.large",
+					"calloutMsg-eyebrow",
+					"free-gift",
+					"plpRun",
+					"free-gift",
+					"eyebr",
+					"search_combi",
+					"meta",
+					"viewport",
+					"meta",
+					"viewport",
+					"meta",
+					"displayinvento",
+					"displayinvent"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/index.html",
+							"settings":
+							{
+								"buffer_size": 2693,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										611,
+										611
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/livestyle.css",
+							"settings":
+							{
+								"buffer_size": 2852,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1925,
+										1925
+									]
+								],
+								"settings":
+								{
+									"auto_name": "livestyle.css",
+									"syntax": "Packages/CSS/CSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 18.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/tile.html",
+							"settings":
+							{
+								"buffer_size": 37664,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17759,
+										17759
+									],
+									[
+										18241,
+										18241
+									],
+									[
+										18716,
+										18716
+									],
+									[
+										19200,
+										19200
+									],
+									[
+										19682,
+										19682
+									],
+									[
+										20156,
+										20156
+									],
+									[
+										20641,
+										20641
+									],
+									[
+										21104,
+										21104
+									],
+									[
+										21558,
+										21558
+									],
+									[
+										22039,
+										22039
+									],
+									[
+										22514,
+										22514
+									],
+									[
+										22991,
+										22991
+									],
+									[
+										23476,
+										23476
+									],
+									[
+										23979,
+										23979
+									],
+									[
+										24461,
+										24461
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 4963.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/scss/_tile.scss",
+							"settings":
+							{
+								"buffer_size": 14048,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7182,
+										7182
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 5429.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/js/script.js",
+							"settings":
+							{
+								"buffer_size": 7489,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5382,
+										5382
+									]
+								],
+								"settings":
+								{
+									"auto_name": "script.js",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2209.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"settings":
+							{
+								"buffer_size": 1002,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										1002
+									]
+								],
+								"settings":
+								{
+									"auto_name": "<div class=\"rating-online-cont\">",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/js/codeacademy.js",
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/Gruntfile.js",
+							"settings":
+							{
+								"buffer_size": 2222,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										741,
+										741
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "255 462 1440 814 0 0 2560 1418 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"window_id": 79,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"out",
+						"outline"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"backgroun",
+						"background-color"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"swat",
+						"swatches5"
+					],
+					[
+						"swatcher",
+						"swatchesContainer"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"show",
+						"showPic"
+					],
+					[
+						"color",
+						"colorSwatchesDiv"
+					],
+					[
+						"get",
+						"getAttribute"
+					],
+					[
+						"no",
+						"parentNode"
+					],
+					[
+						"on",
+						"onclick"
+					],
+					[
+						"background",
+						"background"
+					],
+					[
+						"trigger",
+						"trigger4"
+					],
+					[
+						"trig",
+						"trigger4"
+					],
+					[
+						"im",
+						"import"
+					],
+					[
+						"swatches",
+						"swatches-is-visible"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"swatc",
+						"swatches"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"grid",
+						"gridTiles--bottom"
+					],
+					[
+						"colorS",
+						"colorSwatches"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"backgr",
+						"background"
+					],
+					[
+						"getEle",
+						"getElementsByTagName"
+					],
+					[
+						"getE",
+						"getElementById"
+					],
+					[
+						"set",
+						"setAttribute"
+					],
+					[
+						"mouse",
+						"mouseenter"
+					],
+					[
+						"backgroud",
+						"background-color"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"backgron",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"githu",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"github",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/css/style.css",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/js/jquery-1.11.0.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/codeacademy.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/tile-atc.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/style.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/Gruntfile.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/tile.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/css3/_linear-gradient.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/css3/_transform.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/_bourbon.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/iframe.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/scss/style.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/.gitignore",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/package.json",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/tgt-patterns.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/core/_base.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/templates/_footer.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/css/tgt-patterns.min.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/templates/_header.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_states.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/vendor/bootstrap/_buttons.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_buttons.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_mobile.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_main.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_sidebar.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/typography/_heading.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_callouts_prompts.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/navigation/_pagination.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_footer.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/js/docs.js",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/base/_base.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/pages/index.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/docs.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/img/tgt-logo-white.png",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/img/tgt-logo.png",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_header.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/.gitignore",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-small-screens.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-big-screens.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-groups.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_sizes.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_forms.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_navigation.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/www/index.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/css/tgt-patterns.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/css/docs.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_typography.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/Gruntfile.js",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/forms/_sizes.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_skins.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/knowledge-base/pattern-library/coding-standards.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/knowledge-base/pattern-library/contributing-to-the-library.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/www/atoms.html",
+				"/Users/z0019rb/Code/ui_guidelines/index.html",
+				"/Users/z0019rb/Code/hologram-example/components/index.md",
+				"/Users/z0019rb/Code/test/css/style.css",
+				"/Users/z0019rb/Code/hologram-example/build/script/components.js",
+				"/Users/z0019rb/Code/hologram-example/components/toggle/toggle.css",
+				"/Users/z0019rb/Code/hologram-example/gruntfile.js",
+				"/Users/z0019rb/Code/hologram-example/config.yml",
+				"/Users/z0019rb/Code/hologram-example/LICENSE.txt",
+				"/Users/z0019rb/Code/hologram-example/templates/static/css/github.css",
+				"/Users/z0019rb/Code/hologram-example/components/background/backgrounds.css",
+				"/Users/z0019rb/Code/hologram-example/templates/_footer.html",
+				"/Users/z0019rb/Code/hologram-example/build/css/screen.css",
+				"/Users/z0019rb/Code/hologram-example/templates/_header.html",
+				"/Users/z0019rb/Code/hologram-example/.gitignore",
+				"/Users/z0019rb/Code/hologram-example/README.md",
+				"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css/product-listing.css",
+				"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css/product-listing-details.css",
+				"/Users/z0019rb/Code/tcom-frontend-assets/build/build-tff.xml",
+				"/Users/z0019rb/Code/hologram-example/docs/index.html",
+				"/Users/z0019rb/Code/hologram-example/templates/static/brick.png",
+				"/Users/z0019rb/Code/UI-UX-FE-Framework/scss/layout/_document.scss",
+				"/Users/z0019rb/Code/UI-UX-FE-Framework/scss/layout/_container.scss",
+				"/Users/z0019rb/Desktop/viewport-fix/PDP-VIZIO.webarchive"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css",
+					"TSDA"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sroll",
+					"width=\"22\" height=\"22\"",
+					"\"22\"",
+					"hei=12\"",
+					"userChoi",
+					"swatches3",
+					".gridTiles--bottom",
+					"angle",
+					"<li",
+					"<li>",
+					"12",
+					"angle",
+					"console",
+					"colorSwatches4",
+					"transi",
+					"red",
+					"<img alt=\"White\" title=\"White\"",
+					"Symphony Blue",
+					" \n",
+					"more colors",
+					"swatches",
+					"swatchesTrigger3",
+					"swatchesBox",
+					"color",
+					"\"12\"",
+					"12",
+					"btn-primar",
+					"table-responsi	",
+					"table-respo	",
+					"table-repos",
+					"table",
+					"commit",
+					"Accessibility",
+					"commit",
+					".nav",
+					"#nav",
+					"backgroundbasi",
+					"back",
+					"compare",
+					"li.large .tileInfo .productTitle",
+					".large",
+					"li.large",
+					"li.large .product",
+					"li.large .productTile",
+					"li.large",
+					"calloutMsg-eyebrow",
+					"free-gift",
+					"plpRun",
+					"free-gift",
+					"eyebr",
+					"search_combi",
+					"meta",
+					"viewport",
+					"meta",
+					"viewport",
+					"meta",
+					"displayinvento",
+					"displayinvent"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/z0019rb/Desktop/PogressivePlpPoc"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "94 162 1946 1024 0 0 2560 1418 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"window_id": 91,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"out",
+						"outline"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"backgroun",
+						"background-color"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"swat",
+						"swatches5"
+					],
+					[
+						"swatcher",
+						"swatchesContainer"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"show",
+						"showPic"
+					],
+					[
+						"color",
+						"colorSwatchesDiv"
+					],
+					[
+						"get",
+						"getAttribute"
+					],
+					[
+						"no",
+						"parentNode"
+					],
+					[
+						"on",
+						"onclick"
+					],
+					[
+						"background",
+						"background"
+					],
+					[
+						"trigger",
+						"trigger4"
+					],
+					[
+						"trig",
+						"trigger4"
+					],
+					[
+						"im",
+						"import"
+					],
+					[
+						"swatches",
+						"swatches-is-visible"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"swatc",
+						"swatches"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"grid",
+						"gridTiles--bottom"
+					],
+					[
+						"colorS",
+						"colorSwatches"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"backgr",
+						"background"
+					],
+					[
+						"getEle",
+						"getElementsByTagName"
+					],
+					[
+						"getE",
+						"getElementById"
+					],
+					[
+						"set",
+						"setAttribute"
+					],
+					[
+						"mouse",
+						"mouseenter"
+					],
+					[
+						"backgroud",
+						"background-color"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"backgron",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/z0019rb/code/plp-stuff/PLP-Prototype/Gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 2150,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/z0019rb/code/plp-stuff/PLP-Prototype/.gitignore",
+					"settings":
+					{
+						"buffer_size": 25,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/z0019rb/code/plp-stuff/PLP-Prototype/index.html",
+					"settings":
+					{
+						"buffer_size": 183441,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"githu",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"github",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/z0019rb/code/plp-stuff/PLP-Prototype/package.json",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/css/style.css",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/js/jquery-1.11.0.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/codeacademy.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/tile-atc.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/style.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/Gruntfile.js",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/tile.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/css3/_linear-gradient.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/css3/_transform.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/bourbon/_bourbon.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/iframe.html",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/public/scss/style.scss",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/.gitignore",
+				"/Users/z0019rb/code/plp-stuff/PLP-PDP-Patterns/package.json",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/tgt-patterns.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/core/_base.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/templates/_footer.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/css/tgt-patterns.min.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/templates/_header.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_states.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/vendor/bootstrap/_buttons.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_buttons.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_mobile.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_main.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_sidebar.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/typography/_heading.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_callouts_prompts.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/navigation/_pagination.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_footer.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/js/docs.js",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/base/_base.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/pages/index.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/docs.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/img/tgt-logo-white.png",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/img/tgt-logo.png",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/scss/layout/_header.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/.gitignore",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-small-screens.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-big-screens.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_buttons-groups.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_sizes.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_forms.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_navigation.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/www/index.html",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/css/tgt-patterns.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/assets/css/docs.css",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/_typography.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/Gruntfile.js",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/forms/_sizes.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/patterns/atoms/buttons/_skins.scss",
+				"/Users/z0019rb/Code/tgt-pattern-library/knowledge-base/pattern-library/coding-standards.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/knowledge-base/pattern-library/contributing-to-the-library.md",
+				"/Users/z0019rb/Code/tgt-pattern-library/tgt-pattern-library/docs/www/atoms.html",
+				"/Users/z0019rb/Code/ui_guidelines/index.html",
+				"/Users/z0019rb/Code/hologram-example/components/index.md",
+				"/Users/z0019rb/Code/test/css/style.css",
+				"/Users/z0019rb/Code/hologram-example/build/script/components.js",
+				"/Users/z0019rb/Code/hologram-example/components/toggle/toggle.css",
+				"/Users/z0019rb/Code/hologram-example/gruntfile.js",
+				"/Users/z0019rb/Code/hologram-example/config.yml",
+				"/Users/z0019rb/Code/hologram-example/LICENSE.txt",
+				"/Users/z0019rb/Code/hologram-example/templates/static/css/github.css",
+				"/Users/z0019rb/Code/hologram-example/components/background/backgrounds.css",
+				"/Users/z0019rb/Code/hologram-example/templates/_footer.html",
+				"/Users/z0019rb/Code/hologram-example/build/css/screen.css",
+				"/Users/z0019rb/Code/hologram-example/templates/_header.html",
+				"/Users/z0019rb/Code/hologram-example/.gitignore",
+				"/Users/z0019rb/Code/hologram-example/README.md",
+				"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css/product-listing.css",
+				"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css/product-listing-details.css",
+				"/Users/z0019rb/Code/tcom-frontend-assets/build/build-tff.xml",
+				"/Users/z0019rb/Code/hologram-example/docs/index.html",
+				"/Users/z0019rb/Code/hologram-example/templates/static/brick.png",
+				"/Users/z0019rb/Code/UI-UX-FE-Framework/scss/layout/_document.scss",
+				"/Users/z0019rb/Code/UI-UX-FE-Framework/scss/layout/_container.scss",
+				"/Users/z0019rb/Desktop/viewport-fix/PDP-VIZIO.webarchive"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/z0019rb/Code/tcom-frontend-assets/TSDA/WebContent/css",
+					"TSDA"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"10058049",
+					"sroll",
+					"width=\"22\" height=\"22\"",
+					"\"22\"",
+					"hei=12\"",
+					"userChoi",
+					"swatches3",
+					".gridTiles--bottom",
+					"angle",
+					"<li",
+					"<li>",
+					"12",
+					"angle",
+					"console",
+					"colorSwatches4",
+					"transi",
+					"red",
+					"<img alt=\"White\" title=\"White\"",
+					"Symphony Blue",
+					" \n",
+					"more colors",
+					"swatches",
+					"swatchesTrigger3",
+					"swatchesBox",
+					"color",
+					"\"12\"",
+					"12",
+					"btn-primar",
+					"table-responsi	",
+					"table-respo	",
+					"table-repos",
+					"table",
+					"commit",
+					"Accessibility",
+					"commit",
+					".nav",
+					"#nav",
+					"backgroundbasi",
+					"back",
+					"compare",
+					"li.large .tileInfo .productTitle",
+					".large",
+					"li.large",
+					"li.large .product",
+					"li.large .productTile",
+					"li.large",
+					"calloutMsg-eyebrow",
+					"free-gift",
+					"plpRun",
+					"free-gift",
+					"eyebr",
+					"search_combi",
+					"meta",
+					"viewport",
+					"meta",
+					"viewport",
+					"meta",
+					"displayinvento",
+					"displayinvent"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/z0019rb/code/plp-stuff/PLP-Prototype"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/z0019rb/code/plp-stuff/PLP-Prototype/Gruntfile.js",
+							"settings":
+							{
+								"buffer_size": 2150,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										270,
+										270
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/z0019rb/code/plp-stuff/PLP-Prototype/.gitignore",
+							"settings":
+							{
+								"buffer_size": 25,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25,
+										25
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/z0019rb/code/plp-stuff/PLP-Prototype/index.html",
+							"settings":
+							{
+								"buffer_size": 183441,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										159045,
+										159040
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 52742.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "473 246 1577 1058 0 0 2560 1418 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"window_id": 93,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
